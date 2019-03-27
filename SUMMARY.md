@@ -1,4 +1,8 @@
 # Table of contents
 
-* [README](README.md)
+* [Comfiguracion](README.md)
+
+## Titulo 1
+
+* [Configuracion](titulo-1/configuracion.md)
 

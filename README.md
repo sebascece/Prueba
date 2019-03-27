@@ -1,4 +1,8 @@
-# README
+# Comfiguracion
 
-"\# Prueba"
+| 1 | 3 |
+| :--- | :--- |
+| 2 | 4 |
+
+
 
